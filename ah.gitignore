@@ -1,6 +1,0 @@
-/logs
-*.log
-build/
-dist/
-.idea/
-.vscode/
