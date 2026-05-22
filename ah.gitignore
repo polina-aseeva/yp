@@ -1,0 +1,7 @@
+/logs
+*.log
+build/
+dist/
+.idea/
+.vscode/
+#Этот файл был в разработке
